@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{111FE975-C026-44F9-AD6D-E50C8DDBA9CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlitchFinder.MatrixTest", "GlitchFinder.MatrixTest\GlitchFinder.MatrixTest.csproj", "{61ABED6A-E4A5-469A-B7F5-CAF21713FC67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlitchFinder.Matrix", "GlitchFinder.Matrix\GlitchFinder.Matrix.csproj", "{324EFC63-7AB0-4D2B-838D-5C3BE53D979E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlitchFinder", "GlitchFinder\GlitchFinder.csproj", "{75B13F37-A1BD-45F9-B97A-A7452DA524FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111FE975-C026-44F9-AD6D-E50C8DDBA9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111FE975-C026-44F9-AD6D-E50C8DDBA9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111FE975-C026-44F9-AD6D-E50C8DDBA9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111FE975-C026-44F9-AD6D-E50C8DDBA9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61ABED6A-E4A5-469A-B7F5-CAF21713FC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61ABED6A-E4A5-469A-B7F5-CAF21713FC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61ABED6A-E4A5-469A-B7F5-CAF21713FC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61ABED6A-E4A5-469A-B7F5-CAF21713FC67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324EFC63-7AB0-4D2B-838D-5C3BE53D979E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324EFC63-7AB0-4D2B-838D-5C3BE53D979E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324EFC63-7AB0-4D2B-838D-5C3BE53D979E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324EFC63-7AB0-4D2B-838D-5C3BE53D979E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B13F37-A1BD-45F9-B97A-A7452DA524FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B13F37-A1BD-45F9-B97A-A7452DA524FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B13F37-A1BD-45F9-B97A-A7452DA524FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B13F37-A1BD-45F9-B97A-A7452DA524FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CBF7F46-00C8-42D4-A487-3CF08C3B4DE1}
+	EndGlobalSection
+EndGlobal
